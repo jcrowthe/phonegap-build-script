@@ -21,6 +21,8 @@ npm install phonegap-build-api bluebird
 
 ## Running
 
+First, open `build.js` and input the required parameters. Then:
+
 ```
 node build.js
 ```
